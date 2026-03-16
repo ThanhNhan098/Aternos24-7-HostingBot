@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Nhan-MC-Sever.aternos.me",
+    "ip": "mcservercuanhan.aternos.me",
     "port": 62213,
     "version": "",
     "try-creative": false
