@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "thanhnhanbotafk198",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "mcservercuanhan.aternos.me",
+    "ip": "mcservercuanhan.aternos.me:12796",
     "port": 62213,
     "version": "",
     "try-creative": false
